@@ -21,7 +21,7 @@
 (write (palindromep '(a b b a)))
 (terpri)
 
-; Tests a odd palindrome 
+; Tests an odd palindrome 
 (write (palindromep '(a b c b a)))
 (terpri)
 
