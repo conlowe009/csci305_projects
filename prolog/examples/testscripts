@@ -1,0 +1,8 @@
+
+exists(person(X, Y, _, _)).
+
+child(X), dateofbirth(X, date(_,_,2003)).
+
+exists(Person), salary(Person, Salary), Salary <8000.
+
+
